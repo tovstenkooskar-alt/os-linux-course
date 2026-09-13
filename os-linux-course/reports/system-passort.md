@@ -12,7 +12,7 @@
 
 **дата диагностики 13.10.2026**
 
-![Окно winver](../assets/screenshots/01_winver.png)
+![Окно winver](../assets/screenshots/01_winer.png)
 
 ![О системе](../assets/screenshots/02_about.png)
 
@@ -20,7 +20,7 @@
 
 ![Память](../assets/screenshots/04_memory.png)
 
-![Диск](../../assets/screenshots/05_disk.png)
+![Диск](../assets/screenshots/05_disk.png)
 
 ![Видеокарта](../assets/screenshots/06_gpu.png)
 
