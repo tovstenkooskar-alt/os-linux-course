@@ -8,8 +8,8 @@
 
 ![О системе](../../assets/screenshots/02_about.png)
 
-![Память](assets/screenshots/04_memory.png)
+![Память](../../assets/screenshots/04_memory.png)
 
-![Процессы(доказательство много задачности)](assets/screenshots/07_processes.png)
+![Процессы(доказательство много задачности)](../../assets/screenshots/07_processes.png)
 
-![Сведенья из msinfo32](assets/screenshots/08_msinfo32.png)
+![Сведенья из msinfo32](../../assets/screenshots/08_msinfo32.png)
