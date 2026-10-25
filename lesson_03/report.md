@@ -171,6 +171,12 @@ sudo -n -u guest sudo -n -l
 
 ![setup-team.sh](screenshots/10-setup.png)
 
+## Практика-тест
+
+https://algorthimization-course-vvodnoe.vercel.app/op05-operacionnye-sistemy-i-sredy/testy/tema-04-05/index.html
+
+Код:
+
 ## Перед сдачей
 
 - [+] Проверка: 21 из 21.
