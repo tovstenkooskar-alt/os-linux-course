@@ -1,0 +1,6 @@
+inbox/archive/2025/plan.txt
+inbox/archive/2025/budget.csv
+inbox/data-old.csv
+token=lab-only
+ls -l -S ~/files-lab/sorted/images
+/etc/os-release
